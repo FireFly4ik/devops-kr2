@@ -1,0 +1,8 @@
+[req]
+distinguished_name = dn
+x509_extensions = ext
+prompt = no
+[dn]
+CN = api.devops.local
+[ext]
+subjectAltName = DNS:api.devops.local
