@@ -1,3 +1,5 @@
+# KR2: Galanov
+
 import os
 import socket
 
